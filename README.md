@@ -10,7 +10,7 @@ In short:
 
 ---
 
-## 🖼️ Reference Reactions
+## Reference Reactions
 
 Each state is inspired by an image stored in `media/`, and triggered by specific gesture + face combinations.
 
@@ -54,7 +54,7 @@ Detects up to 2 hands with 21 landmarks each.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install opencv-python mediapipe numpy
